@@ -1,0 +1,58 @@
+*{
+    color:white;
+    background-color:rgb(39, 35, 35);
+}
+.img{
+    width:35px;
+    height:35px;
+}
+.H1{
+    height: 20px;
+}
+
+.H2{
+    height:20px;
+}
+.H3{
+    height:20px;
+}
+.H4{
+    height:20px;
+}
+.H5{
+    height:20px;
+}
+.Name{
+    color: rgb(233, 139, 56);
+    font-size: 40px;
+    padding: 20px;
+    padding: 0%;
+}
+.t1{
+    border-radius: 20px;
+    background-color: rgb(255, 251, 34);
+    margin-left: 30%;
+    font-size:20px;
+    color:black;
+}
+.t2{
+    
+    font-size:20px;
+    color:white;
+}
+.note{
+    size:45px;
+    color:rgb(13, 165, 236) ;
+}
+.button{
+    border: none;
+    border-color:rgb(39, 35, 35) ;
+}
+.Home{
+    width:150px;
+    height:50px;
+}
+.Home1{
+    width:200px;
+    height:50px;
+}
